@@ -1,4 +1,5 @@
 <h1>Projeto de desafio da DIO - Felipe Carvalho</h1>
+<h3>Para rodar, basta executar "npm install", seguido de "node src/index.js"</h3>
 <h2>Regras do desafio:</h2>
   <table>
         <tr>
